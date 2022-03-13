@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Spectre\\OneDrive\\Bureau\\tasks\\task 1\\task 1\\task 1.csproj",
+      "projectUniqueName": "C:\\Users\\Spectre\\OneDrive\\Bureau\\Новая папка (2)\\task-divise\\task 1\\task 1.csproj",
       "projectName": "task 1",
-      "projectPath": "C:\\Users\\Spectre\\OneDrive\\Bureau\\tasks\\task 1\\task 1\\task 1.csproj",
+      "projectPath": "C:\\Users\\Spectre\\OneDrive\\Bureau\\Новая папка (2)\\task-divise\\task 1\\task 1.csproj",
       "packagesPath": "C:\\Users\\Spectre\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Spectre\\OneDrive\\Bureau\\tasks\\task 1\\task 1\\obj\\",
+      "outputPath": "C:\\Users\\Spectre\\OneDrive\\Bureau\\Новая папка (2)\\task-divise\\task 1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
